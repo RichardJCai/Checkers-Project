@@ -59,11 +59,6 @@ bool checkWinner(){
   return false;
 }
 
-//Turns a checker piece into a king
-void makeKing(){
-
-}
-
 bool canCapture(bool blacksTurn){
   //Must capture pieces if available
 
